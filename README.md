@@ -1,7 +1,7 @@
 ## Hi, Im Lino 👋
 
-🌌 Im currently grinding LeetCode<br/>
-🧠 I have a certificate "the front end career path from scrimba"<br/>
+🌌 Im currently grinding to be a 42student<br/>
+🧠 I have a certificate "the front end career path from scrimba and I'm a retryer at 42 piscine"<br/>
 
 # 💫 About Me:
 🌱 I’m learning Javascript<br>🤝 I’m looking to learn more about programming<br>💬 Ask me if you want to talk about JavaScript or programming
