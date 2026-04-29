@@ -4,7 +4,7 @@
 🧠 I have a certificate "the front end career path from scrimba and I'm a retryer at 42 piscine"<br/>
 
 # 💫 About Me:
-🌱 I’m learning Javascript<br>🤝 I’m looking to learn more about programming<br>💬 Ask me if you want to talk about JavaScript or programming
+🌱 I’m learning C<br>🤝 I’m looking to learn more about machine learning and system programming<br>💬 Ask me if you want to talk about C or programing in general and most likely algorithm 
 
 
 ## 🌐 Socials:
